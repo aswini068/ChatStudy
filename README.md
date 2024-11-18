@@ -116,6 +116,8 @@ if __name__ == '__main__':
     server_program()
 ```
 ## OUTPUT:
+
+
 ## CLIENT:
 ![image](https://github.com/user-attachments/assets/1ffecd32-b1f1-412d-bab3-2c9bc7569fab)
 
